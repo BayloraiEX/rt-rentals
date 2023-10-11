@@ -53,7 +53,21 @@ config.locations = {
         vehiclespawncoords = vector4(212.64, -797.12, 30.87, 339.09), -- where vehicle spawns when rented
 
     },
-
+    ['hospital'] = {
+        ped = true,
+        coords = vector4(246.93, -559.06, 43.27, 159.85),
+        vehicles = {
+            ['panto'] = {
+                price = 50,
+                image = 'https://i.imgur.com/vuP5xMc.jpeg',
+            },
+            ['bmx'] = {
+                price = 0,
+                image = 'https://i.imgur.com/TKTtwYF.jpeg',
+            },
+        },
+        vehiclespawncoords = vector4(253.77, -564.2, 43.27, 152.49),
+    },
     -- add as many locations as you'd like with any type of vehicle (air, water, land) follow same format as above
 }
 
