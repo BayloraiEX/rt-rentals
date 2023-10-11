@@ -15,12 +15,6 @@
 
 **Targets:** qb-target | ox_target 
 
-# Gallery
-
-![FiveM_b2699_GTAProcess_lVuAgry0md](https://github.com/SolosV1/rt-rentals/assets/108097907/497e9bf7-0522-4d5e-93a9-92ff466c6747)
-![FiveM_b2699_GTAProcess_ZU03FpehGK](https://github.com/SolosV1/rt-rentals/assets/108097907/cbfbdc3a-7783-4b51-b9fa-3bf3058b6d61)
-![FiveM_b2699_GTAProcess_RixfU7t61q](https://github.com/SolosV1/rt-rentals/assets/108097907/579328cf-332a-492d-a111-81c7497b0372)
-
 # Installation:
 
 1. add `rt-rentals` to your resources folder | Make sure folder is UNZIPPED!
