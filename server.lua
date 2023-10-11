@@ -23,7 +23,7 @@ RegisterNetEvent('rt-rentals:server:RentVehicle', function(vehicle, plate)
     local src = source
     local player_name = PlayerName(src)
     exports.ox_inventory:AddItem(src, 'rentalpapers', 1, 
-        {description = 'Owner: '..player_name..' | Plate: '..plate..' | Vehicle: '..vehicle:gsub("^%l", string.upper)}
+        {description = 'Owner: '..player_name..' | Plate: RENTAL | Vehicle: '..vehicle:gsub("^%l", string.upper)}
     )
 
 end)
