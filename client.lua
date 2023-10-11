@@ -131,6 +131,7 @@ RegisterNetEvent('rt-rentals:client:SpawnVehicle', function(vehiclename, locatio
     end
     local rental = CreateVehicle(vehicle, config.locations[location].vehiclespawncoords.x, config.locations[location].vehiclespawncoords.y, config.locations[location].vehiclespawncoords.z, config.locations[location].vehiclespawncoords.w, true, false)
     local plate = GetVehicleNumberPlateText(rental)
+    SetVehicleNumberPlateText(rental, "RENTAL")
     SetVehicleOnGroundProperly(rental)
     TaskWarpPedIntoVehicle(player, rental, -1) 
     SetVehicleEngineOn(vehicle, true, true)
