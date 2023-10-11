@@ -1,8 +1,6 @@
-![solos](https://github.com/SolosV1/rt-rentals/assets/108097907/8e56354b-9ee1-4566-83b1-04619b71fe43)
+![Baylorai](https://github.com/BayloraiEX) 
 
-**Other FiveM Resources** | https://solos.tebex.io/ 
-
-**Join Discord for support**               | https://discord.gg/UNbCJUrncS
+**Join Discord for support**               | https://discord.gg/UFJsKGdE4q
 
 # Vehicle Rental 
 - Customize vehicle and pricing options
@@ -15,11 +13,7 @@
 
 **Frameworks:** QB | ESX
 
-**Targets:** qb-target | ox_target
-
-# Preview
-
-https://youtu.be/NMyKnpPYqCA 
+**Targets:** qb-target | ox_target 
 
 # Gallery
 
@@ -29,7 +23,7 @@ https://youtu.be/NMyKnpPYqCA
 
 # Installation:
 
-1. add `rt-rentals-main` to your resources folder | Make sure folder is UNZIPPED!
+1. add `rt-rentals` to your resources folder | Make sure folder is UNZIPPED!
 
 2. `ensure rt-rentals` in server.cfg if necessary
 
