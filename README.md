@@ -1,6 +1,6 @@
 ![Baylorai](https://github.com/BayloraiEX) 
 
-**Join Discord for support**               | https://discord.gg/UFJsKGdE4q
+**Join Discord for support**               | https://discord.gg/tbDe9Zjc4e
 
 # Vehicle Rental 
 - Customize vehicle and pricing options
